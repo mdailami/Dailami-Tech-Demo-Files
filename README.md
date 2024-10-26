@@ -18,7 +18,7 @@
 
 ## Demo2 ![Demo2](https://github.com/user-attachments/assets/5465696a-9db0-48c6-a068-c1ed9d85488c)
 
-## Demo3 ![Demo2](https://github.com/user-attachments/assets/5465696a-9db0-48c6-a068-c1ed9d85488c)
+## Demo3 ![Demo3](https://github.com/user-attachments/assets/47cd5e4a-284a-4c67-962b-a6634f4065a5)
 
 #### That is all for now!
 
